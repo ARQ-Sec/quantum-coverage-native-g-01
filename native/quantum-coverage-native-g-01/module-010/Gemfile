@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'Gemfile dependency'
+gem 'ruby-saml'
+gem 'xmlsecurity'
+gem 'xmlcanonicalizer'
