@@ -1,0 +1,6 @@
+{
+  "require": {
+    "onelogin/php-saml": "^1.0",
+    "robrichards/xmlseclibs": "^1.0"
+  }
+}

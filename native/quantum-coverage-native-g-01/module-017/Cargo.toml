@@ -1,0 +1,11 @@
+[package]
+name = "coverage"
+version = "0.1.0"
+
+[dependencies]
+Cargo.toml dependency = "1.0.0"
+oqs = "1.0.0"
+pqcrypto = "1.0.0"
+kyber = "1.0.0"
+dilithium = "1.0.0"
+liboqs = "1.0.0"
